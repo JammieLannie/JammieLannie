@@ -21,9 +21,6 @@ Dream: Becoming a good C# .NET developer.
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
 
-## Devices 📱
-[![PC](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "PC")](https://www.hanoicomputer.vn/pc-gaming-falcon-055-i5-10400f-b460-8gb-ram-gtx-1660-super-550w-rgb)
-[![Xiaomi Redmi Note 8](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "RN8")](https://www.mi.com/)
 
 ## Softwares 🛠
 [![Rider](https://img.shields.io/badge/JetBrains_Rider-DD1265?style=for-the-badge&logo=JetBrains&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
