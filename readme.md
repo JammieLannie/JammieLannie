@@ -38,4 +38,4 @@ Dream: Becoming a good C# .NET developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeeleven&layout=compact)](https://github.com/veeeleven)
 
 ## Highlighted projects 🌟
-[![Sawayo C# Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=veeeleven&repo=Sawayo-CSharp=nord)](https://github.com/veeeleven/Sawayo-CSharp)
+[![Sawayo C# Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=veeeleven&repo=Sawayo-CSharp)](https://github.com/veeeleven/Sawayo-CSharp)
