@@ -34,8 +34,6 @@ Dream: Becoming a good C# .NET developer.
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://microsoft.com)
 [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")](https://dotnet.microsoft.com/)
 
-## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeeleven&layout=compact)](https://github.com/veeeleven)
 
 ## Highlighted projects 🌟
 [![Sawayo C# Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=veeeleven&repo=Sawayo-CSharp)](https://github.com/veeeleven/Sawayo-CSharp)
