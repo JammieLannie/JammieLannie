@@ -6,7 +6,7 @@ Job: High School Student
 Location: Vietnam  
 Age: 16  
 Hobby: Coding, gaming, making useless tools/apps.  
-Dream: Becoming a good C# .NET developer.
+Dream: Becoming a good C# .NET developer and Kernel Developer.
 
 ***
 [![Stats](https://github-readme-stats.vercel.app/api?username=veeeleven&show_icons=true&theme=nord&count_private=true "GitHub stats")](#)  
